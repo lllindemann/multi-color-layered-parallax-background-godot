@@ -1,5 +1,5 @@
 extends Camera2D
-const SPEED = 10.0
+const SPEED = 5.0
 	
 func _process(_delta):
 	# Get the input direction and handle the camera movement
