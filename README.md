@@ -1,5 +1,6 @@
 # Parallax Background 
-Parallax Background Template developed in Godot Engine 4.2.
+Parallax Background Template 
+developed in Godot Engine 4.2.
 
 ## What is a Parallax Effect?
 A parallax effect is the effect, when different "2D" elements in a scene move at different speeds, which creates a 3D depth effect.
