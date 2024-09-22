@@ -11,4 +11,4 @@ A parallax effect is the effect, when different "2D" elements in a scene move at
 3. Navigate to the main scene and run the game.
 
 ## Acknowledgments
-Special thanks to the artists "Kenney" who provides the game's assets: http://support.kenney.nl
+Special thanks to the artists "Kenney" who provides the game's assets: [www.kenney.nl](www.kenney.nl)
