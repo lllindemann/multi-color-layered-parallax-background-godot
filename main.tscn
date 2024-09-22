@@ -2529,3 +2529,5 @@ layer_0/tile_data = PackedInt32Array(-327688, 1310720, 0, -262152, 1310720, 1, -
 
 [node name="Camera2D" type="Camera2D" parent="."]
 script = ExtResource("3_7jiiy")
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
